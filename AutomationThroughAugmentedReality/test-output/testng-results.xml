@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="144093" started-at="2018-12-02T03:54:04Z" finished-at="2018-12-02T03:56:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="144093" started-at="2018-12-02T03:54:04Z" finished-at="2018-12-02T03:56:28Z">
+      <class name="tests.RunTheBot">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:tests.RunTheBot@43814d18]" name="SetUp" is-config="true" duration-ms="80390" started-at="2018-12-02T03:54:04Z" finished-at="2018-12-02T03:55:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="TestTheApp()[pri:0, instance:tests.RunTheBot@43814d18]" name="TestTheApp" duration-ms="38146" started-at="2018-12-02T03:55:25Z" finished-at="2018-12-02T03:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTheApp -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:tests.RunTheBot@43814d18]" name="TearDown" is-config="true" duration-ms="25471" started-at="2018-12-02T03:56:03Z" finished-at="2018-12-02T03:56:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- tests.RunTheBot -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
